@@ -1,0 +1,11 @@
+.idea
+node_modules/
+www/
+platforms/
+plugins/
+dist/
+final/
+.vscode/
+*.log
+package-lock.json
+/index.html
